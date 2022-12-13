@@ -5,3 +5,5 @@ Installation: git clone https://github.com/NickSingizwa/nicksingizwa-termone-bac
 running app: CalculatorApplication.java
 
 running tests: MathServiceTest.java & MathControllerTest.java
+
+port: 5000
